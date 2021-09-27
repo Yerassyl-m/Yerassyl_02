@@ -1,2 +1,2 @@
-# Yerassyl_02
+# Yera_life
 Final project 1 course
